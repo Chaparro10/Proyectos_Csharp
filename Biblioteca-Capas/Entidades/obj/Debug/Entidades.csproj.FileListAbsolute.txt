@@ -1,0 +1,12 @@
+E:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+E:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+E:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+E:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+D:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\bin\Debug\Biblioteca.Entidades.dll.config
+D:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+D:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+D:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+D:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+E:\Topicos Programacion\GUI-C#\Biblioteca-Capas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
