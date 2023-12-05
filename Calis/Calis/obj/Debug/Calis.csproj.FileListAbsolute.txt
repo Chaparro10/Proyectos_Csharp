@@ -1,0 +1,13 @@
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.csproj.AssemblyReference.cache
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.csproj.SuggestedBindingRedirects.cache
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.frmMenu.resources
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.Properties.Resources.resources
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.csproj.GenerateResource.cache
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.csproj.CoreCompileInputs.cache
+C:\Users\NubeC\Downloads\Calis\Calis\bin\Debug\Calis.exe.config
+C:\Users\NubeC\Downloads\Calis\Calis\bin\Debug\Calis.exe
+C:\Users\NubeC\Downloads\Calis\Calis\bin\Debug\Calis.pdb
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.exe
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.pdb
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.frmAltaAlumno.resources
+C:\Users\NubeC\Downloads\Calis\Calis\obj\Debug\Calis.frmConsultaEmpleados.resources
