@@ -1,0 +1,53 @@
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.exe
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.deps.json
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.json
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.dll
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.pdb
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.dll
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.pdb
+C:\Users\Mario\Desktop\Topicos\Programas C#\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.genruntimeconfig.cache
+E:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.exe
+E:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.deps.json
+E:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.json
+E:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.dev.json
+E:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.dll
+E:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.pdb
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csprojAssemblyReference.cache
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfoInputs.cache
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfo.cs
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.dll
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.pdb
+D:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.exe
+D:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.deps.json
+D:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.json
+D:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.dev.json
+D:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.dll
+D:\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.pdb
+D:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csprojAssemblyReference.cache
+D:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfoInputs.cache
+D:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfo.cs
+D:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.dll
+D:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.pdb
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csproj.AssemblyReference.cache
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.GeneratedMSBuildEditorConfig.editorconfig
+E:\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csproj.CoreCompileInputs.cache
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csproj.AssemblyReference.cache
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfoInputs.cache
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.AssemblyInfo.cs
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.csproj.CoreCompileInputs.cache
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.dll
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.pdb
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.exe
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.deps.json
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.json
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.runtimeconfig.dev.json
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.dll
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\bin\Debug\netcoreapp3.1\ArrObjInventario.pdb
+D:\Topicos Programacion\Trabajos-C#\Mini Inventario(LOPEZ CHAPARRO)\ArrObjInventario\ArrObjInventario\obj\Debug\netcoreapp3.1\ArrObjInventario.genruntimeconfig.cache
