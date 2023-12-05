@@ -1,0 +1,85 @@
+//Tipos de Datos
+int 
+float
+char
+string
+booleano
+
+//Estructura de Datos
+List<int> numeros = new List<int>();
+numeros.Add(1);
+numeros.Add(2);
+
+int[] numeros = { 1, 2, 3, 4 };
+
+
+Queue<string> cola = new Queue<string>();
+cola.Enqueue("Primero");
+cola.Enqueue("Segundo");
+
+Stack<string> pila = new Stack<string>();
+pila.Push("Uno");
+pila.Push("Dos");
+
+Dictionary<string, int> edades = new Dictionary<string, int>();
+edades["Juan"] = 25;
+edades["María"] = 30;
+
+
+//Clases y Objetos
+public class Persona
+{
+    // Atributos
+    public string Nombre;
+    public int Edad;
+
+    // Método
+    public void Presentarse()
+    {
+        Console.WriteLine($"Hola, me llamo {Nombre} y tengo {Edad} años.");
+    }
+}
+
+// Crear un objeto de la clase Persona
+Persona persona1 = new Persona();
+persona1.Nombre = "Juan";
+persona1.Edad = 30;
+persona1.Presentarse();
+
+//HERENCIA
+public class Estudiante : Persona
+{
+    public string Carrera;
+
+    // Método adicional para la clase Estudiante
+    public void Estudiar()
+    {
+        Console.WriteLine($"{Nombre} está estudiando {Carrera}.");
+    }
+}
+
+//POLIMORFISMO
+public interface IForma
+{
+    void Dibujar();
+}
+
+public class Circulo : IForma
+{
+    public void Dibujar()
+    {
+        Console.WriteLine("Dibujando un círculo");
+    }
+}
+
+public class Cuadrado : IForma
+{
+    public void Dibujar()
+    {
+        Console.WriteLine("Dibujando un cuadrado");
+    }
+}
+
+//ARQUITECTURAS
+MVC
+CAPAS
